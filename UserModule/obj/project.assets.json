@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/rabeyakhatunmuna/Documents/dot_net projects/MH-Traders/MH-Traders.csproj",
-      "projectName": "MH-Traders",
-      "projectPath": "/Users/rabeyakhatunmuna/Documents/dot_net projects/MH-Traders/MH-Traders.csproj",
+      "projectUniqueName": "/Users/rabeyakhatunmuna/Documents/dot_net projects/MH-Traders/UserModule/UserModule.csproj",
+      "projectName": "UserModule",
+      "projectPath": "/Users/rabeyakhatunmuna/Documents/dot_net projects/MH-Traders/UserModule/UserModule.csproj",
       "packagesPath": "/Users/rabeyakhatunmuna/.nuget/packages/",
-      "outputPath": "/Users/rabeyakhatunmuna/Documents/dot_net projects/MH-Traders/obj/",
+      "outputPath": "/Users/rabeyakhatunmuna/Documents/dot_net projects/MH-Traders/UserModule/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/rabeyakhatunmuna/.nuget/NuGet/NuGet.Config"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.401/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.403/RuntimeIdentifierGraph.json"
       }
     }
   }
