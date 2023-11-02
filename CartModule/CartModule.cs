@@ -1,6 +1,6 @@
 ﻿namespace CartModule;
 
-public class Class1
+public class CartModule
 {
 
 }
