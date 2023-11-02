@@ -1,6 +1,6 @@
 ﻿namespace OrderModule;
 
-public class Class1
+public class OrderModule
 {
 
 }
