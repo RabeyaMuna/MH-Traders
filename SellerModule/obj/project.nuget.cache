@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "elgd9KAzmVBnCZNSLZUvlwZDX+roHJHp72AUYyckhM7iXXYFJxBWfc7DJOwvTMZLTulhbJGk7wZHq2JjhXWDzA==",
+  "dgSpecHash": "d2f55GUfz2eO68bcdIjttS3nKjk2sguo+c9B5II98Z8U5iCXSoMIlufrUtBydY74ZE6l7ty4PO/nTttaFEm3rw==",
   "success": true,
   "projectFilePath": "/Users/rabeyakhatunmuna/Documents/dot_net projects/MH-Traders/SellerModule/SellerModule.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/rabeyakhatunmuna/.nuget/packages/microsoft.extensions.logging.abstractions/6.0.0/microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "/Users/rabeyakhatunmuna/.nuget/packages/npgsql/7.0.6/npgsql.7.0.6.nupkg.sha512"
+  ],
   "logs": []
 }
