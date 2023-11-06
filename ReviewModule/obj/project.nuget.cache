@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "7WAmHZbNZy0sNA65MBbHZyzOgaXs9u9UQ3Nxb3RyztVDmzSUBOY+eSw0bjOpzcuC0smBWjuGVysaWGeaj0EBWw==",
+  "dgSpecHash": "quC/Yn+7xfGfti9q6cT64KFUQG9FRGgOfmLEl9AmCD3axm3t4JNhCjB6hci7zOvDCzkV3q/K1Aer8zy5ynZz6g==",
   "success": true,
   "projectFilePath": "/Users/rabeyakhatunmuna/Documents/dot_net projects/MH-Traders/ReviewModule/ReviewModule.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/rabeyakhatunmuna/.nuget/packages/microsoft.extensions.logging.abstractions/6.0.0/microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "/Users/rabeyakhatunmuna/.nuget/packages/npgsql/7.0.6/npgsql.7.0.6.nupkg.sha512"
+  ],
   "logs": []
 }

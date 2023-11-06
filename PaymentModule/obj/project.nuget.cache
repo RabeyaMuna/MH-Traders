@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "xJM5s6COsbEVNVTWxZGMjCd7Qll0ojL6kumjMIG4d2uf4vfbOgNJHFnWqf2TeYc7Cneik5o+2aimayeaJN9rSQ==",
+  "dgSpecHash": "4WNpUvPjotkWhiNGyYjaWWqoRiXuIYEqDZ7ZQd3ecleeWMooGODZrVmDT2jK0HnNWbKUEVo8E9m+5nCGtr6JSw==",
   "success": true,
   "projectFilePath": "/Users/rabeyakhatunmuna/Documents/dot_net projects/MH-Traders/PaymentModule/PaymentModule.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/rabeyakhatunmuna/.nuget/packages/microsoft.extensions.logging.abstractions/6.0.0/microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "/Users/rabeyakhatunmuna/.nuget/packages/npgsql/7.0.6/npgsql.7.0.6.nupkg.sha512"
+  ],
   "logs": []
 }
